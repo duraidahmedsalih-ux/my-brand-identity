@@ -4,11 +4,20 @@
 
 ## الملف الشخصي (Professional Profile)
 
-<div dir="rtl">
-
-* **المؤهل الأكاديمي:** ماجستير علوم حاسوب - تخصص ذكاء إصطناعي <br> M.Sc. in Computer Science - Artificial Intelligence
-* **مجال الخبرة:** برامج الذكاء الاصطناعي، البرمجيات، والأنظمة الرقمية <br> AI Software, Development & Digital Systems
-
+<div dir="rtl" style="text-align: right;">
+  <ul>
+    <li>
+      <strong>المؤهل الأكاديمي:</strong> ماجستير علوم حاسوب - تخصص ذكاء إصطناعي
+      <br>
+      M.Sc. in Computer Science - Artificial Intelligence
+    </li>
+    <br>
+    <li>
+      <strong>مجال الخبرة:</strong> برامج الذكاء الاصطناعي، البرمجيات، والأنظمة الرقمية
+      <br>
+      AI Software, Development & Digital Systems
+    </li>
+  </ul>
 </div>
 
 ---
